@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceImage", "VoiceImage.csproj", "{3C56E9D3-F1B7-8825-AAD9-1AE522646D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceImage.Editor", "VoiceImage.Editor.csproj", "{22B7C4E4-84E2-BB42-18E1-1EC2722111A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C56E9D3-F1B7-8825-AAD9-1AE522646D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C56E9D3-F1B7-8825-AAD9-1AE522646D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C56E9D3-F1B7-8825-AAD9-1AE522646D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C56E9D3-F1B7-8825-AAD9-1AE522646D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B7C4E4-84E2-BB42-18E1-1EC2722111A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B7C4E4-84E2-BB42-18E1-1EC2722111A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B7C4E4-84E2-BB42-18E1-1EC2722111A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B7C4E4-84E2-BB42-18E1-1EC2722111A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

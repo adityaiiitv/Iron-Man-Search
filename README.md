@@ -4,11 +4,11 @@ Tony Stark asks Jarvis to search for something and present either an augmented v
 
 Future extension: Will try to incorporate the feature into HoloLens or Magic Leap.
 
-![Pressing the button after saying "Hello"](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/1.PNG)
+![Say "Donald Trump"](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/4.PNG)
+Say out loud "Donald Trump"
 
-![Resulting images augmented in the reality](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/2.PNG)
-
-![Resulting images augmented in the reality](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/3.PNG)
+![The President is here](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/5.PNG)
+The President is here
 
 Working:
 
@@ -26,6 +26,10 @@ Tools: Unity, C#, IBM Watson, Google Custom Search API
 
 Let us meet the President
 
-![Say "Donald Trump"](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/4.PNG)
+![Pressing the button after saying "Hello"](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/1.PNG)
+Say out loud "Hello" and press the button for magic
 
-![The President is here](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/5.PNG)
+![Resulting images augmented in the reality](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/2.PNG)
+Viola!
+
+![Resulting images augmented in the reality](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/3.PNG)

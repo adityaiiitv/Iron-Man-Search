@@ -1,5 +1,9 @@
 # Iron-Man-Voice-Image-Search
 
+Tony Stark asks Jarvis to search for something and present either an augmented version or a hologram of the result. I tried to make my Jarvis return some image results for me. This application helps you to get the images and project them in augmented reality.
+
+Future extension: Will try to incorporate the feature into HoloLens or Magic Leap.
+
 ![Pressing the button after saying "Hello"](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/1.PNG)
 
 ![Resulting images augmented in the reality](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/2.PNG)

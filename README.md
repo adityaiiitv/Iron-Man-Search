@@ -8,9 +8,11 @@ Future extension: Will try to incorporate the feature into HoloLens or Magic Lea
 
 Say out loud "Donald Trump"
 
+
 ![The President is here](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/5.PNG)
 
-The President is here
+The President is here!!
+
 
 Working:
 
@@ -32,8 +34,10 @@ Let us meet the President
 
 Say out loud "Hello" and press the button for magic
 
+
 ![Resulting images augmented in the reality](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/2.PNG)
 
 Viola!
+
 
 ![Resulting images augmented in the reality](https://github.com/adityaiiitv/Iron-Man-Voice-Image-Search/blob/master/3.PNG)

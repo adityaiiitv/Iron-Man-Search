@@ -1,5 +1,5 @@
 ![](https://github.com/adityaiiitv/Iron-Man-Search/blob/master/29dcca41-3c23-47d0-af10-9de3b6f5d4bc.png)
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="aditya-prakash-74039b14b"><a class="LI-simple-link" href='https://www.linkedin.com/in/aditya-prakash-74039b14b?trk=profile-badge'>Aditya Prakash - Linkedin</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="aditya-prakash-74039b14b"><a class="LI-simple-link" href='https://www.linkedin.com/in/aditya-prakash-74039b14b?trk=profile-badge'>Aditya Prakash - LinkedIn</a></div>
 # Iron-Man-Search
 
 This application is my take on recreating the web search done by Tony Stark as Iron Man. The search is done via voice commands and the results are displayed in Augmented reality.

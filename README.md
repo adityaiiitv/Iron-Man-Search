@@ -6,7 +6,7 @@ This application is my take on recreating the web search done by Tony Stark as I
 
 Future extension: Will try to incorporate the feature into HoloLens or Magic Leap.
 
-![Hey](https://media.giphy.com/media/5exwXWg9u7yow/giphy.gif)
+![](https://github.com/adityaiiitv/Iron-Man-Search/blob/master/tenor.gif)
 
 Let us meet the President
 
